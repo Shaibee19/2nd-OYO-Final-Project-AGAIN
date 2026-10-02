@@ -3,7 +3,7 @@ import Featured from "../components/ui/Featured";
 import { useState } from "react";
 import axios from "axios";
 import { Link } from "react-router-dom";
-import Movie from "../components/Movie";
+// import Movie from "../components/Movie";
 
 function Home() {
   const apiKey = "4ea1d0b9";
